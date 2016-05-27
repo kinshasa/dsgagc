@@ -8,9 +8,9 @@ import android.view.Window;
 /**
  * Created by liusp on 2016/5/25.
  */
-public class BaseDialog extends Dialog{
+public class NoTitleDialog extends Dialog {
 
-    public BaseDialog(Context context){
+    public NoTitleDialog(Context context) {
         super(context);
 
 
